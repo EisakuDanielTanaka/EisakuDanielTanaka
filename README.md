@@ -4,6 +4,7 @@ This only shows a small portion of projects that I have done, as my ML and NLP p
 
 The major ML and NLP projects that I have been involved in were:
 * Psycholinguistic language modeling in English and Japanese for commercial NLU.
+* Analyzed psycholinguistic properties, collocations, and classified topics from social media data.
 * Research publication co-author for an interdisciplinary research of Geographic Psychology and Psycholinguistics utilizing machine learning methods. 
 * Ongoing: Co-authoring a research publication for fine-tuning psycholinguistic tools for NLU in Japan.
 
