@@ -2,6 +2,11 @@
 I'm Eisaku, a data scientist intern at [Manzanita](https://www.mnzt.io/en/) and research assistant. I graduated Keio University in 2021 with a degree in Economics and an emphasis in computer science.
 This only shows a small portion of projects that I have done, as my ML and NLP projects from work cannot be shown here. 
 
+Major programming projects that are pinned include:
+* An AI that solves a Peg-Solitaire Game (C language)
+* K-nearest neighbors and range search algorithm implementation (C language)
+* Graphic simulation utilizing advanced object oriented concepts (Java)
+
 The major ML and NLP projects that I have been involved in were:
 * Psycholinguistic language modeling in English and Japanese for commercial NLU.
 * Analyzed psycholinguistic properties, collocations, and classifications of topics in social media data.
