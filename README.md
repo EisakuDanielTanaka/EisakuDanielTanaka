@@ -6,7 +6,7 @@ Major programming projects that are pinned include:
 * An AI that solves a Peg-Solitaire Game (C language).
 * K-nearest neighbors and range search algorithm implementation (C language).
 * Graphic simulation utilizing advanced object oriented concepts (Java).
-* LDA Topic Modeling of Japanese Corpora (Python).
+* LDA Topic Modeling of Japanese News Corpus (Python).
 
 The major ML and NLP projects that I have been involved in were:
 * Psycholinguistic language modeling in English and Japanese for commercial NLU.
