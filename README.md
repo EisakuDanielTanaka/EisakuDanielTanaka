@@ -1,5 +1,5 @@
 # Hello!
-I'm Eisaku, a data scientist at [Manzanita](https://www.mnzt.io/en/) and a research assistant to the University of Cambridge's People Analytics Lead Researcher, Peter Romero. I graduated Keio University in 2021 with a degree in Economics and an emphasis in Computer Science. My work overaches the fields of machine learning, deep learning, and computational psycholinguistics.
+I'm Eisaku, a Data Scientist at [Manzanita](https://www.mnzt.io/en/) and a Research Assistant to the University of Cambridge's People Analytics Lead Researcher, Peter Romero. I graduated Keio University in 2021 with a degree in Economics and an emphasis in Computer Science. My work overaches the fields of machine learning, deep learning, and computational psycholinguistics.
 This only shows a small portion of projects that I have done, as my ML and NLP projects from work cannot be shown here. 
 
 Major programming projects that are pinned include:
